@@ -8,94 +8,121 @@ contributions and community involvement into appropriate grades. Generally
 speaking, if you're contributing to the community and/or making valuable
 open-source contributions you'll receive a high grade in RCOS.
 
-## Grade Levels
+## Project Contributions & Planning
 
-Beginning in Fall 2016, RCOS will begin accepting 4 credit levels for RCOS students.
-Higher credit levels generally entail more commitment and responsibility, while
-lower credit levels take less time and require less objectives.
+### Proposal
 
-The following table represents a general rule-of-thumb for metrics that every
-RCOS member should keep track of (see [grading metrics](#grading-metrics) for
-longer descriptions of each metric).
+Each project must start with a proposal. This proposal will serve as your plan and contract, and should describe a set of well
+defined features your team will implement over the course of the semester. There should
+be (4+?) features in the proposal and each should have a planned date of completion.
+Each team member should contribute to at least (2?) features, and multiple team members
+can of course collaborate on any given feature. 
 
-| Credit Level | Blog Posts | Attendance                     | Avg weekly Contributions | Small Group Presentations | Large Group Presentations | External Contribution | Documentation Review |
-|--------------|------------|--------------------------------|--------------------------|---------------------------|---------------------------|-----------------------|----------------------|
-| 1            | 2          | 3 absences, 1 bonus session    | 1                        | 2                         | 0                         | X                     | X                    |
-| 2            | 3          | 3 absences, 2 bonus sessions   | 3                        | 2                         | 1                         | X                     | X                    |
-| 3            | 4          | 2 absences, 2 bonus sessions   | 5                        | 2                         | 1                         | X                     | Yes                  |
-| 4            | 4          | 2 absences, 2 bonus sessions   | 7                        | 2                         | 1                         | Yes                   | Yes                  |
+The proposal and features therein must be approved by a mentor at the start of the semester.
+However, it is important to remember that the proposal is a living document.
+Plans often change, and that is OK. In the event you decide to change your plans for the semester,
+or fail to adhere to the timeline set in the proposal, the proposal must be revised
+accordingly and the revisions must be approved by a mentor.
 
-## Grading Metrics
+### Features
+
+A feature is functional increment of your project. For software projects, a feature should
+typically be a working collection of commits that accomplished a portion of your overall goals.
+
+It is strongly recommended that features be broken down into sub tasks, which should be tracked
+using Github Issues. Issues should have well defined acceptance criteria, and should be organized
+using Github Projects. 
+
+A feature does not necessarily have to a functional change to your project if other work is necessary.
+Examples of non-functional features include learning or research goals, significant architectural or
+design work, etc.
+
+If a feature is not a functional change, there should be a greater focus on documentation
+to appropriately convey the work that was done.
+
+Progress for each feature must be meticulously documented in one or more blog posts. See
+[Blog Posts](#blog-posts) for more information.
+
+If you are not sure how to best divide up your project into features, please ask a mentor for assistance.
+
+## Documentation
+
+Projects should be well documented. Documentation can take many forms. A README and an
+OSI approved license are mandatory. The README should include a summary of the project,
+instructions for contributing, and any other information needed to develop for and use
+the project.
+
+Additional documentation (other than a README and blog posts) is required.
+Examples of additional documentation include but are not limited to UML diagrams,
+API documents, user manuals, FAQs, setup guides, troubleshooting information, etc.
+
+The use of a wiki is strongly encouraged. Creating a static project site can help you
+organize your various forms of documentation and provide excellent exposure for your
+project.
+
+If you are unsure how to properly document your project, please consult your mentor for
+advice early on.
 
 ### Blog Posts
 
-Blog posts are a way to explain the high level goals of a project, to indicate
+Blog posts should be informative, and are often status updates about your project.
+They can also be more general or written in the form of a guide or tutorial. Blog posts
+that may help another developer solve a problem that you have solved are extremely valuable
+to the open source community. In general you should write blog posts that you would want to 
+read and that you would find useful.
+
+Blog posts are also a good way to explain the high level goals of a project, to indicate
 that a project is struggling (someone in RCOS might be able to help!) or just
 to document tasks that don't fall easily into other categories.
-
-If the instructor feels that the blog post doesn't add value to the project, if
-it's poorly written or very short, it may not be counted. Check with your mentor
-if you're not sure your blog post is good enough!
 
 It's a good idea to have a blog post at the beginning of the semester and end of
 the semester to indicate what you hope to do, then what you were able to do (or
 what you decided to do instead.)
 
-### Attendance
+Remember, if the instructor feels that the blog post doesn't add value to the project, if
+it's poorly written or very short, it may not be counted. Check with your mentor for blog
+post ideas or if you're not sure your blog post is ready for the world!
+
+The minimum requirement for blog posts is one per feature plus one at the start and end of
+the semester, but you are strongly encouraged to do more. Blog early and blog often!
+
+## Attendance
 
 Being part of the RCOS community means seeing what RCOS members are doing, giving
-feedback, and learning from tech talks and guest speakers. RCOS attendance goes
-through observatory, and depending on the number of credits you take you are
-allowed to skip a certain number of lectures.
+feedback, and learning from tech talks and guest speakers. Attendence is required
+and is taken on Tuesdays and Fridays via observatory.
 
-There are a certain number of required bonus sessions, which take place after
-RCOS (within the 2 hour time block) or at a day announced at a large group
-meeting. If you attend over your required number of bonus sessions, a bonus
-session counts as normal attendance.
+Unexcused absences can be made up by attending bonus sessions. Generally bonus
+sessions are unique, long or workshop-style tech talks, a RCOS hackathon, or an
+optional RCOS session. Pay attention in the large group meeting to hear bonus
+sessions announced.
 
-Generally bonus sessions are unique, long or workshop-style tech talks, a
-RCOS hackathon, or an optional RCOS session. Pay attention in the large group
-meeting to hear bonus sessions announced.
+## Presentations
 
-### Average Weekly Contributions
+Each project group is required to give one large group presentation. Presentations should be
+well prepared and rehearsed in the presence of a mentor for feedback.
+See [rcos presentations](http://rcos.github.io/intro/presentations#/) for more details.
 
-Weekly contributions can be anything from creating issues, commenting on pull
-requests or committing code to a repository. Contributions should indicate
-community involvement (e.g. a pull request that is reviewed by peers) rather than
-"working alone publicly". If you are on an RCOS project alone, it is admissable
-to commit directly to a repository.
+## Tech Talks & Bonus Sessions
 
-### Small Group Presentations
+In addition to the large group project presentation, each member is required to either give
+one large group tech talk, host a bonus session, or alternatively attend a bonus session.
+More senior members are encouraged to give tech talks for the benefit of the RCOS community.
+All members are encouraged to attend bonus sessions. A bonus session attended in lieu of
+hosting a bonus session or giving a tech talk cannot also count as an attendence makeup.
 
-Small group presentations help give projects critical feedback or resolve issues,
-a mentor will organize presentations at the beginning of the semester in an early
-small group.
-
-### Large Group Presentations
-
-Large group presentations usually do not receive feedback, and should be tailored
-to engaging the RCOS community. See [rcos presentations](http://rcos.github.io/intro/presentations#/)
-for more details.
-
-### External Contribution
+## External Contribution
 
 Contribute to something outside of RCOS or help out another group with an issue! External contributions 
-are encouraged as it allows RCOS to give back to the larger open source community.  The project you're
+are encouraged as it allows RCOS to give back to the larger open source community. The project you're
 contributing to should be used by a significant number of people outside of RPI.  
 
 Within RCOS, we also want to generate a community of helping other projects and making your project more 
 friendly to outside contributors. If you're doing your external contributions to another RCOS project, it 
 must be a project that you have not previouly worked on and you must communicate with the project through 
-Github issues, PRs, and code reviews. 
+Github issues, PRs, and code reviews.
 
-### Documentation Review
-
-Your project should live on outside of RCOS! You should have a README, instructions
-for developers to work on the project and some form of documentation. Instructors
-will go through the documentation and make sure that your project could potentially
-have a life outside of RCOS.
-
-Making a website is an encouraged way of showing off your project outside of RCOS.
+External contributions are strongly encouraged but are not required.
 
 ## Individual and Group Grading
 
