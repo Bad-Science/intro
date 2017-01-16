@@ -1,4 +1,4 @@
-# Grading
+# Grading Requirements
 
 ## Overview
 
@@ -124,7 +124,17 @@ Github issues, PRs, and code reviews.
 
 External contributions are strongly encouraged but are not required.
 
-## Individual and Group Grading
+# How Grades are Calculated
 
-RCOS is a team sport, but when grading instructors can only look at the individual.
-Make sure that you meet the requirements!
+Although RCOS is a team sport, grading is done on the individual member. Make sure you meet the requirements,
+including the requirements on the project itself such as the README, License and other forms of documentation.
+
+**If you find this rubric to be incompatible with your project, or you believe that it will significantly
+hinder or not acurately represent your progress, please let us know as adjustments and exceptions can be made.**
+
+| Category | A | B | C | D | F |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Contributions & Planning - 50% | Makes meaningful contributions to several features. Student communicates failures and development barriers to their team and mentors, and makes their best effort to overcome challenges. Student is involved in planning and is proactive in updating plans and proposal. Student is active on Github and Slack and makes excellent use of issue tracking and project management systems. | Student makes meaningful contributions to several features, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. | Student makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. | Student makes almost no meaningful contributions and makes little effort to communicate with team members and mentors. | Student demonstrates no visible effort to contribute to their project or communicate with their team and mentors. |
+| Documentation - 20% | Project has an OSI approved license, a helpful README, has additional documentation that is of quality and value. Makes frequent, high caliber blog posts documenting each issue they work on and several problems they solve. | Makes blog posts that may be too few or brief OR project may not have may not have much additional documentation. | Makes only a few or low quality blog posts, OR project may have little other documentation. | Makes few blog posts of little to no value and does not contribute to other forms of documentation. | Makes no blog posts and contributes no effort toward documenting the project. Project does not have a meaningful README or license. |
+| Attendance - 15% | Attends all meetings and makes up any unexcused absences by attending bonus sessions. | Attends most meetings and makes up most unexcused absences | Repeatedly misses meetings or does not make up unexcused absences | Misses many meetings and does not attempt to make up unexcused absences | Makes no effort to regularly attend meetings |
+| Presentations - 15% | Participates in large group presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Hosts a well prepared and useful tech talk or bonus session OR attends the requisite bonus session. | Makes a reasonable effort to participate in presentation and is at least somewhat prepared. Hosts a tech talk or bonus session OR attends the requisite bonus session. | Is unprepared for presentation or does not participate heavily. Hosts a tech talk or bonus session OR attends the requisite bonus session. | Makes little effort to participate in presentation and does not host tech talk, bonus session, or attend bonus sessions. | Makes no effort to participate in presentation or does not attend. Does not host tech talk, bonus session, or attend any bonus sessions. |
