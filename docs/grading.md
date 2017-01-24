@@ -13,37 +13,38 @@ open-source contributions you'll receive a high grade in RCOS.
 ### Proposal
 
 Each project must start with a proposal. This proposal will serve as your plan and contract, and should describe a set of well
-defined features your team will implement over the course of the semester. There should
-be (4+?) features in the proposal and each should have a planned date of completion.
-Each team member should contribute to at least (2?) features, and multiple team members
-can of course collaborate on any given feature. 
+defined deliverables your team will implement over the course of the semester. There should
+be 4+ deliverables in the proposal and each should have a planned date of completion.
+Each team member should contribute to at least 2 deliverables, and multiple team members
+can of course collaborate on any given deliverable. These are minimum values and many groups
+may find larger numbers to be appropriate based on the size of the team and the scope of the project.
 
-The proposal and features therein must be approved by a mentor at the start of the semester.
+The proposal and deliverables therein must be approved by a mentor at the start of the semester.
 However, it is important to remember that the proposal is a living document.
 Plans often change, and that is OK. In the event you decide to change your plans for the semester,
 or fail to adhere to the timeline set in the proposal, the proposal must be revised
 accordingly and the revisions must be approved by a mentor.
 
-### Features
+### Deliverables
 
-A feature is functional increment of your project. For software projects, a feature should
+A deliverable is functional increment of your project. For software projects, a deliverable should
 typically be a working collection of commits that accomplished a portion of your overall goals.
 
-It is strongly recommended that features be broken down into sub tasks, which should be tracked
+It is strongly recommended that deliverables be broken down into sub tasks, which should be tracked
 using Github Issues. Issues should have well defined acceptance criteria, and should be organized
 using Github Projects. 
 
-A feature does not necessarily have to a functional change to your project if other work is necessary.
-Examples of non-functional features include learning or research goals, significant architectural or
+A deliverable does not necessarily have to a functional change to your project if other work is necessary.
+Examples of non-functional deliverables include learning or research goals, significant architectural or
 design work, etc.
 
-If a feature is not a functional change, there should be a greater focus on documentation
+If a deliverable is not a functional change, there should be a greater focus on documentation
 to appropriately convey the work that was done.
 
-Progress for each feature must be meticulously documented in one or more blog posts. See
+Progress for each deliverable must be meticulously documented in one or more blog posts. See
 [Blog Posts](#blog-posts) for more information.
 
-If you are not sure how to best divide up your project into features, please ask a mentor for assistance.
+If you are not sure how to best divide up your project into deliverables, please ask a mentor for assistance.
 
 ## Documentation
 
@@ -83,7 +84,7 @@ Remember, if the instructor feels that the blog post doesn't add value to the pr
 it's poorly written or very short, it may not be counted. Check with your mentor for blog
 post ideas or if you're not sure your blog post is ready for the world!
 
-The minimum requirement for blog posts is one per feature plus one at the start and end of
+The minimum requirement for blog posts is one per deliverable plus one at the start and end of
 the semester, but you are strongly encouraged to do more. Blog early and blog often!
 
 ## Attendance
@@ -97,13 +98,15 @@ sessions are unique, long or workshop-style tech talks, a RCOS hackathon, or an
 optional RCOS session. Pay attention in the large group meeting to hear bonus
 sessions announced.
 
+A student can have two unexcused absences before their grade is affected or make-ups are needed.
+
 ## Presentations
 
 Each project group is required to give one large group presentation. Presentations should be
 well prepared and rehearsed in the presence of a mentor for feedback.
 See [rcos presentations](http://rcos.github.io/intro/presentations#/) for more details.
 
-## Tech Talks & Bonus Sessions
+### Tech Talks & Bonus Sessions
 
 In addition to the large group project presentation, each member is required to either give
 one large group tech talk, host a bonus session, or alternatively attend a bonus session.
@@ -122,7 +125,8 @@ friendly to outside contributors. If you're doing your external contributions to
 must be a project that you have not previouly worked on and you must communicate with the project through 
 Github issues, PRs, and code reviews.
 
-External contributions are strongly encouraged but are not required.
+External contributions are strongly encouraged but are not required. With the approval of a mentor,
+a significant external contribution can take the place of a single [deliverable requirement](#deliverables).
 
 # How Grades are Calculated
 
@@ -134,7 +138,7 @@ hinder or not acurately represent your progress, please let us know as adjustmen
 
 | Category | A | B | C | D | F |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Contributions & Planning - 50% | Makes meaningful contributions to several features. Student communicates failures and development barriers to their team and mentors, and makes their best effort to overcome challenges. Student is involved in planning and is proactive in updating plans and proposal. Student is active on Github and Slack and makes excellent use of issue tracking and project management systems. | Student makes meaningful contributions to several features, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. | Student makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. | Student makes almost no meaningful contributions and makes little effort to communicate with team members and mentors. | Student demonstrates no visible effort to contribute to their project or communicate with their team and mentors. |
+| Contributions & Planning - 50% | Makes meaningful contributions to several deliverables. Student communicates failures and development barriers to their team and mentors, and makes their best effort to overcome challenges. Student is involved in planning and is proactive in updating plans and proposal. Student is active on Github and Slack and makes excellent use of issue tracking and project management systems. | Student makes meaningful contributions to several deliverables, but may be slightly lacking in communication and/or planning requirements, or may not make good use of issue tracking / project management systems. | Student makes too few contributions and does not ask for help when needed. Student makes little to no use of issue tracking and project management systems, and does not communicate well with team members or mentors. | Student makes almost no meaningful contributions and makes little effort to communicate with team members and mentors. | Student demonstrates no visible effort to contribute to their project or communicate with their team and mentors. |
 | Documentation - 20% | Project has an OSI approved license, a helpful README, has additional documentation that is of quality and value. Makes frequent, high caliber blog posts documenting each issue they work on and several problems they solve. | Makes blog posts that may be too few or brief OR project may not have may not have much additional documentation. | Makes only a few or low quality blog posts, OR project may have little other documentation. | Makes few blog posts of little to no value and does not contribute to other forms of documentation. | Makes no blog posts and contributes no effort toward documenting the project. Project does not have a meaningful README or license. |
-| Attendance - 15% | Attends all meetings and makes up any unexcused absences by attending bonus sessions. | Attends most meetings and makes up most unexcused absences | Repeatedly misses meetings or does not make up unexcused absences | Misses many meetings and does not attempt to make up unexcused absences | Makes no effort to regularly attend meetings |
+| Attendance - 15% | Misses no more than two meetings and makes up any unexcused absences by attending bonus sessions. | Attends most meetings and makes up most unexcused absences | Repeatedly misses meetings or does not make up unexcused absences | Misses many meetings and does not attempt to make up unexcused absences | Makes no effort to regularly attend meetings |
 | Presentations - 15% | Participates in large group presentation and demonstrates a knowledge of what they worked on; is well prepared and clearly rehearsed. Hosts a well prepared and useful tech talk or bonus session OR attends the requisite bonus session. | Makes a reasonable effort to participate in presentation and is at least somewhat prepared. Hosts a tech talk or bonus session OR attends the requisite bonus session. | Is unprepared for presentation or does not participate heavily. Hosts a tech talk or bonus session OR attends the requisite bonus session. | Makes little effort to participate in presentation and does not host tech talk, bonus session, or attend bonus sessions. | Makes no effort to participate in presentation or does not attend. Does not host tech talk, bonus session, or attend any bonus sessions. |
