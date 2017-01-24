@@ -17,7 +17,7 @@ Each project must start with a proposal. This proposal will serve as your plan a
 defined deliverables your team will implement over the course of the semester. 
 The suggested number of deliverables is the number of group members times two and each deliverable should have a planned date of completion.
 Each team member should contribute to at least 3 deliverables, and multiple team members
-can of course collaborate on any given deliverable. These are minimum values and many groups
+can of course collaborate on any given deliverable. These are suggested values and many groups
 may find larger numbers to be appropriate based on the size of the team and the scope of the project.
 
 The proposal and deliverables therein must be approved by a mentor at the start of the semester.
