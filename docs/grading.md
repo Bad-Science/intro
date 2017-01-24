@@ -14,9 +14,9 @@ open-source contributions you'll receive a high grade in RCOS.
 ### Proposal
 
 Each project must start with a proposal. This proposal will serve as your plan and contract, and should describe a set of well
-defined deliverables your team will implement over the course of the semester. There should
-be 4+ deliverables in the proposal and each should have a planned date of completion.
-Each team member should contribute to at least 2 deliverables, and multiple team members
+defined deliverables your team will implement over the course of the semester. 
+The suggested number of deliverables is the number of group members times two and each deliverable should have a planned date of completion.
+Each team member should contribute to at least 3 deliverables, and multiple team members
 can of course collaborate on any given deliverable. These are minimum values and many groups
 may find larger numbers to be appropriate based on the size of the team and the scope of the project.
 
@@ -111,7 +111,7 @@ See [rcos presentations](http://rcos.github.io/intro/presentations#/) for more d
 
 In addition to the large group project presentation, each member is required to either give
 one large group tech talk, host a bonus session, or alternatively attend a bonus session.
-More senior members are encouraged to give tech talks for the benefit of the RCOS community.
+Upperclassmen and more senior members are encouraged to give tech talks for the benefit of the RCOS community.
 All members are encouraged to attend bonus sessions. A bonus session attended in lieu of
 hosting a bonus session or giving a tech talk cannot also count as an attendence makeup.
 
