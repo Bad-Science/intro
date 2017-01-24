@@ -4,8 +4,9 @@
 
 RCOS is largely a self-guided class, which can make grading difficult. Instructors
 use utilities such as [Observatory](https://rcos.io/) to make turn open source
-contributions and community involvement into appropriate grades. Generally
-speaking, if you're contributing to the community and/or making valuable
+contributions and community involvement into appropriate grades. The following grading criteria
+are designed to help you be successful both as an RCOS student, and as a member of the open source 
+community. Generally speaking, if you're contributing to the community and/or making valuable
 open-source contributions you'll receive a high grade in RCOS.
 
 ## Project Contributions & Planning
